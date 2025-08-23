@@ -381,7 +381,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-paper-accepted-to-conference-on-decision-and-control-2025-rio-de-janerio-fawac-feasibility-informed-advantage-weighted-regression-for-persistent-safety-in-offline-reinforcement-learning-coauthored-with-dr-zhanhong-jiang-dr-soumik-sarkar-and-dr-cody-fleming-arxiv",
+            },},{id: "news-new-manuscript-out-flow-based-single-step-completion-for-efficient-and-expressive-policy-learning-check-it-out-on-arxiv",
+          title: 'New manuscript out: “Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning”. Check...',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-to-conference-on-decision-and-control-2025-rio-de-janerio-fawac-feasibility-informed-advantage-weighted-regression-for-persistent-safety-in-offline-reinforcement-learning-coauthored-with-dr-zhanhong-jiang-dr-soumik-sarkar-and-dr-cody-fleming-arxiv",
           title: 'Paper accepted to Conference on Decision and Control 2025, Rio de Janerio. “FAWAC:...',
           description: "",
           section: "News",},{id: "news-joined-cornell-for-ph-d",
