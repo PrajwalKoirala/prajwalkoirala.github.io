@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Joined Cornell for Ph.D.
+Thrilled to begin my Ph.D. in **Robotics** at Cornell University!  
+Excited to explore cutting-edge research in safe and intelligent autonomy. Supported in my first semester by the **Cornell Fellowship**.
