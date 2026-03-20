@@ -380,17 +380,14 @@ ninja.data = [{
           title: 'Defended my MS thesis. Title - &amp;quot;Towards safe and efficient offline reinforcement learning...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-new-manuscript-out-flow-based-single-step-completion-for-efficient-and-expressive-policy-learning-check-it-out-on-arxiv",
-          title: 'New manuscript out: “Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning”. Check...',
-          description: "",
-          section: "News",},{id: "news-paper-accepted-to-conference-on-decision-and-control-2025-rio-de-janerio-fawac-feasibility-informed-advantage-weighted-regression-for-persistent-safety-in-offline-reinforcement-learning-coauthored-with-dr-zhanhong-jiang-dr-soumik-sarkar-and-dr-cody-fleming-arxiv",
-          title: 'Paper accepted to Conference on Decision and Control 2025, Rio de Janerio. “FAWAC:...',
+              window.location.href = "/news/ms_thesis_defence.html";
+            },},{id: "news-paper-accepted-to-cdc-2025-rio-de-janerio-fawac-feasibility-informed-advantage-weighted-regression-for-persistent-safety-in-offline-reinforcement-learning-coauthored-with-dr-zhanhong-jiang-dr-soumik-sarkar-and-dr-cody-fleming",
+          title: 'Paper accepted to CDC 2025, Rio de Janerio. “FAWAC: Feasibility Informed Advantage Weighted...',
           description: "",
           section: "News",},{id: "news-thrilled-to-begin-my-ph-d-in-robotics-at-cornell-university-excited-to-explore-cutting-edge-research-in-safe-and-intelligent-autonomy-supported-in-my-first-semester-by-the-cornell-fellowship",
           title: 'Thrilled to begin my Ph.D. in Robotics at Cornell University! Excited to explore...',
           description: "",
-          section: "News",},{id: "news-flow-based-single-step-completion-for-efficient-and-expressive-policy-learning-has-been-accepted-to-iclr-2026-we-propose-a-flow-based-generative-policy-for-one-shot-action-generation-enabling-much-faster-training-and-inference-across-offline-rl-gcrl-and-bc-arxiv",
+          section: "News",},{id: "news-flow-based-single-step-completion-for-efficient-and-expressive-policy-learning-has-been-accepted-to-iclr-2026-we-propose-a-flow-based-generative-policy-for-one-shot-action-generation-enabling-much-faster-training-and-inference-across-offline-rl-gcrl-and-bc",
           title: 'Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning has been accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
