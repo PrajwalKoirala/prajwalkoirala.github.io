@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Publications in reversed chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -467,7 +467,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=s4CrY2wAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=3yo9QfwAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
